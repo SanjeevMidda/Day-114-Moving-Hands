@@ -1,0 +1,202 @@
+* {
+    margin: 0px;
+}
+
+.container {
+    width: fit-content;
+    height: fit-content;
+    display: inline-flex;
+}
+
+.one {
+    width: 51px;
+    height: 300px;
+    background-color: blue;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.one:hover {
+    height: 600px; 
+}
+
+.two {
+    width: 51px;
+    height: 300px;
+    background-color: red;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.two:hover {
+    height: 600px; 
+}
+
+.three {
+    width: 51px;
+    height: 300px;
+    background-color: purple;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.three:hover {
+    height: 600px; 
+}
+
+.four {
+    width: 51px;
+    height: 300px;
+    background-color: pink;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.four:hover {
+    height: 600px; 
+}
+
+.five {
+    width: 51px;
+    height: 300px;
+    background-color: green;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.five:hover {
+    height: 600px; 
+}
+
+.six {
+    width: 51px;
+    height: 300px;
+    background-color: orangered;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.six:hover {
+    height: 600px; 
+}
+
+.seven {
+    width: 51px;
+    height: 300px;
+    background-color: yellow;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.seven:hover {
+    height: 600px; 
+}
+
+.eight {
+    width: 51px;
+    height: 300px;
+    background-color: black;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.eight:hover {
+    height: 600px; 
+}
+
+.nine {
+    width: 51px;
+    height: 300px;
+    background-color: burlywood;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.nine:hover {
+    height: 600px; 
+}
+
+.ten {
+    width: 51px;
+    height: 300px;
+    background-color: blueviolet;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.ten:hover {
+    height: 600px; 
+}
+
+.eleven {
+    width: 51px;
+    height: 300px;
+    background-color: royalblue;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.eleven:hover {
+    height: 600px; 
+}
+
+.twelve {
+    width: 51px;
+    height: 300px;
+    background-color: pink;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.twelve:hover {
+    height: 600px; 
+}
+
+.thirteen {
+    width: 51px;
+    height: 300px;
+    background-color: aquamarine;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.thirteen:hover {
+    height: 600px; 
+}
+
+.fourteen {
+    width: 51px;
+    height: 300px;
+    background-color: bisque;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.fourteen:hover {
+    height: 600px; 
+}
+
+.fifthteen {
+    width: 51px;
+    height: 300px;
+    background-color: navy;
+    border-radius: 0 0 25px 25px;
+    transition: height 1s;
+}
+
+.fifthteen:hover {
+    height: 600px; 
+}
+
+.circle {
+    border: 1px solid blue;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 0 auto;
+}
+
+.circle:hover {
+    transform: scaleX(2);
+    transform: scaleY(2);
+}
